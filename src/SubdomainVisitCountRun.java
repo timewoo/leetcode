@@ -2,7 +2,7 @@ import run.SubdomainVisitCount;
 
 import java.util.List;
 
-public class RunTest {
+public class SubdomainVisitCountRun {
 
     public static void main(String[] args) {
         String[] subdomainVisitCountData = {"9001 discuss.leetcode.com"};
